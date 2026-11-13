@@ -1,0 +1,42 @@
+
+{
+  "project": "Locket Gold Research",
+  "version": "1.1.0",
+  "features": [
+    {
+      "id": "photobooth",
+      "name": "Photobooth",
+      "status": "planned"
+    },
+    {
+      "id": "ai_filter",
+      "name": "AI Filter",
+      "status": "planned"
+    },
+    {
+      "id": "vip_interface",
+      "name": "VIP Interface",
+      "status": "demo"
+    },
+    {
+      "id": "custom_themes",
+      "name": "Custom Themes",
+      "status": "planned"
+    },
+    {
+      "id": "photo_effects",
+      "name": "Photo Effects",
+      "status": "planned"
+    },
+    {
+      "id": "widget",
+      "name": "Widget Customization",
+      "status": "planned"
+    },
+    {
+      "id": "friends",
+      "name": "Friends Sharing",
+      "status": "planned"
+    }
+  ]
+}
