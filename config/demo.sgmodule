@@ -1,0 +1,8 @@
+
+#!name=Locket Gold Research
+#!desc=Research and configuration demo
+#!category=Research
+
+[General]
+loglevel = notify
+ipv6 = false
