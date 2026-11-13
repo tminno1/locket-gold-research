@@ -1,0 +1,25 @@
+{
+  "project": "Locket Gold Research",
+  "version": "1.0.0",
+  "environment": "research-demo",
+  "purpose": "GitHub Raw distribution and Shadowrocket configuration-format testing",
+  "features": {
+    "photobooth_demo": "planned",
+    "ai_filter_demo": "planned",
+    "vip_interface_demo": "planned",
+    "custom_themes_demo": "planned",
+    "photo_effects_demo": "planned",
+    "widget_customization_demo": "planned",
+    "friends_sharing_demo": "planned"
+  },
+  "network_profile": {
+    "mode": "DIRECT",
+    "creates_vpn_tunnel": false,
+    "note": "A valid, authorized proxy node is required for proxy/VPN routing."
+  },
+  "platforms": [
+    "iOS",
+    "Android"
+  ],
+  "maintainer": "replace-with-your-github-username"
+}
